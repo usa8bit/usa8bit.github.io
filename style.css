@@ -1,0 +1,21 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: rgb(66, 66, 66);
+  color: ghostwhite;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+#about p {
+  text-align: justify;
+}
+
+.card-body a {
+  text-decoration: none;
+}
+
+footer a {
+  text-decoration: none;
+}
