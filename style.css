@@ -14,8 +14,18 @@ section {
 
 .card-body a {
   text-decoration: none;
+  color: #000;
+}
+
+.card-body a:hover {
+  color: #fff;
 }
 
 footer a {
   text-decoration: none;
+  color: #fff;
+}
+
+footer a:hover {
+  color: #000;
 }
